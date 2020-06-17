@@ -3,7 +3,7 @@
 Repositório dos exercícios e exemplos propostos no Curso da Plataforma Udemy - Entendendo TypeScript, ministrado pelo Prof. Leonardo Moura Leitão e idealizado pelo Prof. Maximilian Schwarzmüller.
 
 <p align="center">
-  <img src="assets/img/capa_entendendo_typescript.png" alt="Entendendo TypeScript" width="1280">
+  <img src="assets/img/capa_entendendo_typescript.gif" alt="Entendendo TypeScript" width="1280">
 </p>
 
 Abaixo segue o link para a plataforma da Udemy Cursos.
