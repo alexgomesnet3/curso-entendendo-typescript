@@ -11,5 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "kind-of": "^6.0.3",
+    "mixin-deep": "^2.0.1",
+    "set-value": "^3.0.2",
+    "websocket-extensions": "^0.1.4"
   }
 }
